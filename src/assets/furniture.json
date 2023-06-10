@@ -1,0 +1,642 @@
+[
+  {
+    "id": 0,
+    "title": "Amal",
+    "price": 5500,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 1,
+    "title": "Jacques",
+    "price": 7000,
+    "category": "beds",
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 2,
+    "title": "Modernariato",
+    "price": 8400,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 3,
+    "title": "Antigua",
+    "price": 3500,
+    "category": "beds",
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 4,
+    "title": "Dogaressa",
+    "price": 6000,
+    "category": "beds",
+    "rating": 3,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 5,
+    "title": "Slash",
+    "price": 7000,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 6,
+    "title": "Euclide",
+    "price": 8900,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 7,
+    "title": "Rialto",
+    "price": 6400,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 8,
+    "title": "Cloe",
+    "price": 7800,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 9,
+    "title": "Savon",
+    "price": 8000,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 10,
+    "title": "Trust",
+    "price": 5300,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 11,
+    "title": "Madison",
+    "price": 7500,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 12,
+    "title": "Gansevoort",
+    "price": 6200,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 13,
+    "title": "Тrilogy XL",
+    "price": 6300,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 14,
+    "title": "Amal",
+    "price": 5200,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 15,
+    "title": "Cannes",
+    "price": 5000,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 16,
+    "title": "Eden",
+    "price": 8000,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 17,
+    "title": "Princess",
+    "price": 4500,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 18,
+    "title": "Nature",
+    "price": 5500,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 19,
+    "title": "Nature2",
+    "price": 5000,
+    "category": "beds",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 20,
+    "title": "Amal",
+    "price": 5500,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 21,
+    "title": "Jacques",
+    "price": 7000,
+    "category": "cabinets",
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 22,
+    "title": "Modernariato",
+    "price": 8400,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 23,
+    "title": "Antigua",
+    "price": 3500,
+    "category": "cabinets",
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 24,
+    "title": "Dogaressa",
+    "price": 6000,
+    "category": "cabinets",
+    "rating": 3,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 25,
+    "title": "Slash",
+    "price": 7000,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 26,
+    "title": "Euclide",
+    "price": 8900,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 27,
+    "title": "Rialto",
+    "price": 6400,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 28,
+    "title": "Cloe",
+    "price": 7800,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 29,
+    "title": "Savon",
+    "price": 8000,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 30,
+    "title": "Trust",
+    "price": 5300,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 31,
+    "title": "Madison",
+    "price": 7500,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 32,
+    "title": "Gansevoort",
+    "price": 6200,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 33,
+    "title": "Тrilogy XL",
+    "price": 6300,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 34,
+    "title": "Amal",
+    "price": 5200,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 35,
+    "title": "Cannes",
+    "price": 5000,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 36,
+    "title": "Eden",
+    "price": 8000,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 37,
+    "title": "Princess",
+    "price": 4500,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 38,
+    "title": "Nature",
+    "price": 5500,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 39,
+    "title": "Nature2",
+    "price": 5000,
+    "category": "cabinets",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 40,
+    "title": "Amal",
+    "price": 5500,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 41,
+    "title": "Jacques",
+    "price": 7000,
+    "category": "chairs",
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 42,
+    "title": "Modernariato",
+    "price": 8400,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 43,
+    "title": "Antigua",
+    "price": 3500,
+    "category": "chairs",
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 44,
+    "title": "Dogaressa",
+    "price": 6000,
+    "category": "chairs",
+    "rating": 3,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 45,
+    "title": "Slash",
+    "price": 7000,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 46,
+    "title": "Euclide",
+    "price": 8900,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 47,
+    "title": "Rialto",
+    "price": 6400,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 48,
+    "title": "Cloe",
+    "price": 7800,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 49,
+    "title": "Savon",
+    "price": 8000,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 50,
+    "title": "Trust",
+    "price": 5300,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 51,
+    "title": "Madison",
+    "price": 7500,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 52,
+    "title": "Gansevoort",
+    "price": 6200,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 53,
+    "title": "Тrilogy XL",
+    "price": 6300,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 54,
+    "title": "Amal",
+    "price": 5200,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 55,
+    "title": "Cannes",
+    "price": 5000,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 56,
+    "title": "Eden",
+    "price": 8000,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 57,
+    "title": "Princess",
+    "price": 4500,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 58,
+    "title": "Nature",
+    "price": 5500,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 59,
+    "title": "Nature2",
+    "price": 5000,
+    "category": "chairs",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 60,
+    "title": "Amal",
+    "price": 5500,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 61,
+    "title": "Jacques",
+    "price": 7000,
+    "category": "sofas",
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 62,
+    "title": "Modernariato",
+    "price": 8400,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 63,
+    "title": "Antigua",
+    "price": 3500,
+    "category": "sofas",
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 64,
+    "title": "Dogaressa",
+    "price": 6000,
+    "category": "sofas",
+    "rating": 3,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 65,
+    "title": "Slash",
+    "price": 7000,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 66,
+    "title": "Euclide",
+    "price": 8900,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 67,
+    "title": "Rialto",
+    "price": 6400,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 68,
+    "title": "Cloe",
+    "price": 7800,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 69,
+    "title": "Savon",
+    "price": 8000,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 70,
+    "title": "Trust",
+    "price": 5300,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 71,
+    "title": "Madison",
+    "price": 7500,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 72,
+    "title": "Gansevoort",
+    "price": 6200,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 73,
+    "title": "Тrilogy XL",
+    "price": 6300,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 74,
+    "title": "Amal",
+    "price": 5200,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 75,
+    "title": "Cannes",
+    "price": 5000,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 76,
+    "title": "Eden",
+    "price": 8000,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 77,
+    "title": "Princess",
+    "price": 4500,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 78,
+    "title": "Nature",
+    "price": 5500,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  },
+  {
+    "id": 79,
+    "title": "Nature2",
+    "price": 5000,
+    "category": "sofas",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+  }
+]
