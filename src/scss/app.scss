@@ -569,9 +569,11 @@ body {
     background-color: transparent;
     &__2 {
       display: flex;
-
       align-items: center;
       position: absolute;
+      img {
+        background-color: transparent;
+      }
     }
 
     h1 {
