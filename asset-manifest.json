@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/progect_sofa/static/css/main.262e4336.css",
+    "main.js": "/progect_sofa/static/js/main.a45a035e.js",
+    "static/media/mainPage.png": "/progect_sofa/static/media/mainPage.07555821b75cd5ce8c85.png",
+    "index.html": "/progect_sofa/index.html",
+    "main.262e4336.css.map": "/progect_sofa/static/css/main.262e4336.css.map",
+    "main.a45a035e.js.map": "/progect_sofa/static/js/main.a45a035e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.262e4336.css",
+    "static/js/main.a45a035e.js"
+  ]
+}
