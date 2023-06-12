@@ -1,5 +1,5 @@
 import React from "react";
-import furniture from "../assets/furniture.json";
+/* import furniture from "../assets/furniture.json"; */
 import CartFurniture from "../components/CartFurniture";
 import Search from "../components/Search";
 import Pagination from "../components/Pagination";

@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YanaVesna.github.io/territory_of_tasty",
+  "homepage": "https://YanaVesna.github.io/progect_sofa",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
