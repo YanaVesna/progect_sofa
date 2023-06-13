@@ -3,24 +3,27 @@ import { Link } from "react-router-dom";
 import { CategoryContext } from "../App";
 
 function Categories() {
-  const categories = ["Beds", "Chairs", "Cabinets", "Sofas"];
+  const categories = [
+    { category: "Beds", img: "https://i.ibb.co/g9HxT4z/black-wite-1.png" },
+    { category: "Chairs", img: "https://i.ibb.co/9W4p2yB/black-wite-2.png" },
+    { category: "Cabinets", img: "https://i.ibb.co/5Yq5JzQ/black-wite-3.png" },
+    { category: "Sofas", img: "https://i.ibb.co/7tKTKKc/black-wite-4.png" },
+  ];
   const { categoryValue, setCategoryValue } = React.useContext(CategoryContext);
 
   return (
     <div className="categories">
       <ul>
-        {categories.map((categoryName, i) => (
+        {categories.map((object, i) => (
           <Link to="/furniture">
             <li
               key={i}
-              onClick={() => setCategoryValue(categoryName)}
-              className={categoryValue === categoryName ? "active" : ""}
+              onClick={() => setCategoryValue(object.category)}
+              className={categoryValue === object.category ? "active" : ""}
             >
-              <img
-                src={`/black_wite/black_wite_${i + 1}.png`}
-                alt="catigories"
-              />
-              <h2>{categoryName}</h2>
+              <img src={object.img} alt="catigories" />
+
+              <h2>{object.category}</h2>
             </li>
           </Link>
         ))}

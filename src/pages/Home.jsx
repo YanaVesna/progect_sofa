@@ -28,7 +28,12 @@ const Home = () => {
           <Categories />
         </div>
         <div className="content__simple_bads">
-          <img width={644} height={425} src="/image2.png" alt="badroom" />
+          <img
+            width={644}
+            height={425}
+            src="https://i.ibb.co/C8Z515j/image2.png"
+            alt="badroom"
+          />
           <div className="content__simple_bads__direction">
             <h1>Shop Popular Categories</h1>
             <p>

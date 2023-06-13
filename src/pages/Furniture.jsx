@@ -10,7 +10,22 @@ const Furniture = () => {
   const { searchValue } = React.useContext(SearchContext);
   const { categoryValue, setCategoryValue } = React.useContext(CategoryContext);
 
-  const ellipses = ["", "beds", "cabinets", "chairs", "sofas"];
+  const ellipses = [
+    { categoryValue: "", img: "https://i.ibb.co/6NRXypZ/ellipse.png" },
+    { categoryValue: "beds", img: "https://i.ibb.co/FKnh1rT/beds-ellipse.png" },
+    {
+      categoryValue: "cabinets",
+      img: "https://i.ibb.co/89ndZw4/cabinets-ellipse.png",
+    },
+    {
+      categoryValue: "chairs",
+      img: "https://i.ibb.co/BcRdrF5/chairs-ellipse.png",
+    },
+    {
+      categoryValue: "sofas",
+      img: "https://i.ibb.co/g92tDy4/sofas-ellipse.png",
+    },
+  ];
   const [items, setItems] = React.useState([]);
   const [currentPage, setCurrentPage] = React.useState(1);
   const [isLoading, setIsLoading] = React.useState(true);
@@ -32,6 +47,7 @@ const Furniture = () => {
         setItems(arr);
         setIsLoading(false);
       });
+    window.scrollTo(0, 0);
   }, [currentPage, searchValue, categoryValue]);
 
   const cartsFurniture = items
@@ -62,14 +78,14 @@ const Furniture = () => {
           </div>
           <img
             srcSet="
-             /image4_adaptation/image4_1170.png 1440w,
-             /image4_adaptation/image4_900.png 1250w,
-             /image4_adaptation/image4_750.png 900w,
-             /image4_adaptation/image4_650.png 800w,
-             /image4_adaptation/image4_550.png 700w,
-             /image4_adaptation/image4_450.png 550w,
-             /image4_adaptation/image4_350.png 450w,
-             /image4_adaptation/image4_250.png 350w,"
+             https://i.ibb.co/2cpz19R/image4-1170.png 1440w,
+             https://i.ibb.co/HFQ8s7J/image4-900.png 1250w,
+             https://i.ibb.co/Km4tCQL/image4-750.png 900w,
+             https://i.ibb.co/wKYW5F5/image4-650.png 800w,
+             https://i.ibb.co/hCFkY09/image4-550.png 700w,
+             https://i.ibb.co/Tvm64PG/image4-450.png 550w,
+             https://i.ibb.co/FnpqF5B/image4-350.png 450w,
+             https://i.ibb.co/TYmjzBJ/image4-250.png 350w,"
             sizes="(max-width: 1170px) 1000px,
              (max-width: 1250px) 1150px,
              (max-width: 900px) 850px,
@@ -79,7 +95,7 @@ const Furniture = () => {
              (max-width: 450px) 350px,
              (max-width: 350px) 300px,
              (max-width: 250px) 200px"
-            src="/image4_adaptation/image4_1170.png"
+            src="https://i.ibb.co/2cpz19R/image4-1170.png"
             alt="-"
           />
         </div>
@@ -87,20 +103,20 @@ const Furniture = () => {
           <div className="furniture__tab__ellipses">
             {ellipses.map((ell) => (
               <div
-                key={ell}
+                key={ell.categoryValue}
                 value={categoryValue}
-                onClick={() => setCategoryValue(ell)}
+                onClick={() => setCategoryValue(ell.categoryValue)}
                 className="furniture__tab__ellipses__box"
               >
                 <div className="furniture__tab__ellipses__box__round">
                   <img
                     className="furniture__tab__ellipses__box__round__1"
-                    src={`/Ellipse/${ell}_ellipse.png`}
-                    alt={`ellipse-${ell}`}
+                    src={ell.img}
+                    alt={`ellipse-${ell.categoryValue}`}
                   />
                   <div className="furniture__tab__ellipses__box__round__2"></div>
                 </div>
-                <p>{ell === "" ? "all" : ell}</p>
+                <p>{ell.categoryValue === "" ? "all" : ell.categoryValue}</p>
               </div>
             ))}
           </div>

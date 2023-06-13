@@ -36,10 +36,16 @@ function Footer() {
             <span>Install App</span>
           </li>
           <li>
-            <img src="/GooglePlayBadge.png" alt="Google Play Badge" />
+            <img
+              src="https://i.ibb.co/YykdLyx/Google-Play-Badge.png"
+              alt="Google Play Badge"
+            />
           </li>
           <li>
-            <img src="/AppStoreBadge.png" alt="Google Play Badge" />
+            <img
+              src="https://i.ibb.co/kcqpXmy/App-Store-Badge.png"
+              alt="Google Play Badge"
+            />
           </li>
         </ul>
       </div>

@@ -4,7 +4,10 @@ import styles from "./NotFoundBlock.module.scss";
 export const NotFoundBlock = () => {
   return (
     <div className={styles.root}>
-      <img src="InterioNotFound.png" alt="Not found" />
+      <img
+        src="https://i.ibb.co/pz5Ny9B/Interio-Not-Found.png"
+        alt="Not found"
+      />
     </div>
   );
 };
