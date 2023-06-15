@@ -567,13 +567,13 @@ body {
     height: auto;
     border-radius: 20px;
     background-color: #969696;
+    img {
+      border-radius: 20px;
+    }
     &__2 {
       display: flex;
       align-items: center;
       position: absolute;
-      img {
-        background-color: transparent;
-      }
     }
 
     h1 {

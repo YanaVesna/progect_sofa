@@ -13,13 +13,13 @@ function Header() {
         <Link to="/furniture">
           <li>Furniture</li>
         </Link>
-        <Link to="/*">
+        <Link to="/notfound">
           <li>Interior Design</li>
         </Link>
-        <Link to="/*">
+        <Link to="/notfound">
           <li>Property</li>
         </Link>
-        <Link to="/*">
+        <Link to="/notfound">
           <li>Categories</li>
         </Link>
       </ul>

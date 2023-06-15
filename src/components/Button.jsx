@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Button = () => {
   return (
-    <Link to="/*">
+    <Link to="/notfound">
       <button className="ButtonYellow">Explore All Product</button>
     </Link>
   );

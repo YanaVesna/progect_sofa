@@ -32,7 +32,8 @@ function App(props) {
               <Route path="/" element={<Home />} />
               <Route path="/cart" element={<Cart />} />
               <Route path="/furniture" element={<Furniture />} />
-              <Route path="/*" element={<NotFound />} />
+              <Route path="/*" element={<Home />} />
+              <Route path="/notfound" element={<NotFound />} />
             </Routes>
           </div>
           <Footer />
