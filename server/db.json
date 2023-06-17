@@ -1,0 +1,724 @@
+{
+  "objects": [
+    {
+      "id": 0,
+      "img": "https://i.ibb.co/cr8dsLY/beds-1.png",
+      "title": "Amal",
+      "price": 5500,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/w4z9qtw/beds-2.png",
+      "title": "Jacques",
+      "price": 7000,
+      "category": "beds",
+      "rating": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/DkVZqVD/beds-3.png",
+      "title": "Modernariato",
+      "price": 8400,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/5nz7qkN/beds-4.png",
+      "title": "Antigua",
+      "price": 3500,
+      "category": "beds",
+      "rating": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/fnHzRFn/beds-5.png",
+      "title": "Dogaressa",
+      "price": 6000,
+      "category": "beds",
+      "rating": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/r3cVJ4H/beds-6.png",
+      "title": "Slash",
+      "price": 7000,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/YLKkDkx/beds-7.png",
+      "title": "Euclide",
+      "price": 8900,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/cxhqyvm/beds-8.png",
+      "title": "Rialto",
+      "price": 6400,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/jgpVRjT/beds-9.png",
+      "title": "Cloe",
+      "price": 7800,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/GfDpq8T/beds-10.png",
+      "title": "Savon",
+      "price": 8000,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/LvwF33X/beds-11.png",
+      "title": "Trust",
+      "price": 5300,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 11,
+      "img": "https://i.ibb.co/c3RpJpx/beds-12.png",
+      "title": "Madison",
+      "price": 7500,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 12,
+      "img": "https://i.ibb.co/pW5xwbG/beds-13.png",
+      "title": "Gansevoort",
+      "price": 6200,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 13,
+      "img": "https://i.ibb.co/HVJCYPt/beds-14.png",
+      "title": "Тrilogy XL",
+      "price": 6300,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 14,
+      "img": "https://i.ibb.co/0K2Vqhv/beds-15.png",
+      "title": "Amal",
+      "price": 5200,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 15,
+      "img": "https://i.ibb.co/tJBBV6s/beds-16.png",
+      "title": "Cannes",
+      "price": 5000,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 16,
+      "img": "https://i.ibb.co/9GSMYv8/beds-17.png",
+      "title": "Eden",
+      "price": 8000,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 17,
+      "img": "https://i.ibb.co/yqbPPqy/beds-18.png",
+      "title": "Princess",
+      "price": 4500,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 18,
+      "img": "https://i.ibb.co/gj7DMnC/beds-19.png",
+      "title": "Nature",
+      "price": 5500,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 19,
+      "img": "https://i.ibb.co/s9Qq43b/beds-20.png",
+      "title": "Nature2",
+      "price": 5000,
+      "category": "beds",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 20,
+      "img": "https://i.ibb.co/S7SW7rr/cabinets-21.png",
+      "title": "Amal",
+      "price": 5500,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 21,
+      "img": "https://i.ibb.co/f8CzpCD/cabinets-22.png",
+      "title": "Jacques",
+      "price": 7000,
+      "category": "cabinets",
+      "rating": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 22,
+      "img": "https://i.ibb.co/5FKnB4S/cabinets-23.png",
+      "title": "Modernariato",
+      "price": 8400,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 23,
+      "img": "https://i.ibb.co/6bxZxkH/cabinets-24.png",
+      "title": "Antigua",
+      "price": 3500,
+      "category": "cabinets",
+      "rating": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 24,
+      "img": "https://i.ibb.co/nBkCFZN/cabinets-25.png",
+      "title": "Dogaressa",
+      "price": 6000,
+      "category": "cabinets",
+      "rating": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 25,
+      "img": "https://i.ibb.co/7CZxB3C/cabinets-26.png",
+      "title": "Slash",
+      "price": 7000,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 26,
+      "img": "https://i.ibb.co/wNVQPTf/cabinets-27.png",
+      "title": "Euclide",
+      "price": 8900,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 27,
+      "img": "https://i.ibb.co/VwYB4Ln/cabinets-28.png",
+      "title": "Rialto",
+      "price": 6400,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 28,
+      "img": "https://i.ibb.co/X8D5Pmg/cabinets-29.png",
+      "title": "Cloe",
+      "price": 7800,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 29,
+      "img": "https://i.ibb.co/bKnmyDV/cabinets-30.png",
+      "title": "Savon",
+      "price": 8000,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 30,
+      "img": "https://i.ibb.co/vJY97zm/cabinets-31.png",
+      "title": "Trust",
+      "price": 5300,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 31,
+      "img": "https://i.ibb.co/wpbrY6v/cabinets-32.png",
+      "title": "Madison",
+      "price": 7500,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 32,
+      "img": "https://i.ibb.co/jgSdMtx/cabinets-33.png",
+      "title": "Gansevoort",
+      "price": 6200,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 33,
+      "img": "https://i.ibb.co/r63tQFf/cabinets-34.png",
+      "title": "Тrilogy XL",
+      "price": 6300,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 34,
+      "img": "https://i.ibb.co/KbXGjqz/cabinets-35.png",
+      "title": "Amal",
+      "price": 5200,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 35,
+      "img": "https://i.ibb.co/R6PDpK9/cabinets-36.png",
+      "title": "Cannes",
+      "price": 5000,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 36,
+      "img": "https://i.ibb.co/3z8vmMZ/cabinets-37.png",
+      "title": "Eden",
+      "price": 8000,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 37,
+      "img": "https://i.ibb.co/gJNVKR1/cabinets-38.png",
+      "title": "Princess",
+      "price": 4500,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 38,
+      "img": "https://i.ibb.co/8m4dXtX/cabinets-39.png",
+      "title": "Nature",
+      "price": 5500,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 39,
+      "img": "https://i.ibb.co/xhv5J5s/cabinets-40.png",
+      "title": "Nature2",
+      "price": 5000,
+      "category": "cabinets",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 40,
+      "img": "https://i.ibb.co/KXKNDBv/chairs-41.png",
+      "title": "Amal",
+      "price": 5500,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 41,
+      "img": "https://i.ibb.co/nBrqPSj/chairs-42.png",
+      "title": "Jacques",
+      "price": 7000,
+      "category": "chairs",
+      "rating": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 42,
+      "img": "https://i.ibb.co/nLffmQ6/chairs-43.png",
+      "title": "Modernariato",
+      "price": 8400,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 43,
+      "img": "https://i.ibb.co/mG25BtN/chairs-44.png",
+      "title": "Antigua",
+      "price": 3500,
+      "category": "chairs",
+      "rating": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 44,
+      "img": "https://i.ibb.co/Jjzn48K/chairs-45.png",
+      "title": "Dogaressa",
+      "price": 6000,
+      "category": "chairs",
+      "rating": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 45,
+      "img": "https://i.ibb.co/gM2kfDP/chairs-46.png",
+      "title": "Slash",
+      "price": 7000,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 46,
+      "img": "https://i.ibb.co/gwTFmGB/chairs-47.png",
+      "title": "Euclide",
+      "price": 8900,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 47,
+      "img": "https://i.ibb.co/Qc4TW3n/chairs-48.png",
+      "title": "Rialto",
+      "price": 6400,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 48,
+      "img": "https://i.ibb.co/93S60bw/chairs-49.png",
+      "title": "Cloe",
+      "price": 7800,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 49,
+      "img": "https://i.ibb.co/ZXccRs2/chairs-50.png",
+      "title": "Savon",
+      "price": 8000,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 50,
+      "img": "https://i.ibb.co/h9k7NP9/chairs-51.png",
+      "title": "Trust",
+      "price": 5300,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 51,
+      "img": "https://i.ibb.co/xF5z0Pn/chairs-52.png",
+      "title": "Madison",
+      "price": 7500,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 52,
+      "img": "https://i.ibb.co/qJyKc82/chairs-53.png",
+      "title": "Gansevoort",
+      "price": 6200,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 53,
+      "img": "https://i.ibb.co/FqLdCWv/chairs-54.png",
+      "title": "Тrilogy XL",
+      "price": 6300,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 54,
+      "img": "https://i.ibb.co/3781SDv/chairs-55.png",
+      "title": "Amal",
+      "price": 5200,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 55,
+      "img": "https://i.ibb.co/7NTkjmT/chairs-56.png",
+      "title": "Cannes",
+      "price": 5000,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 56,
+      "img": "https://i.ibb.co/5rNhpLJ/chairs-57.png",
+      "title": "Eden",
+      "price": 8000,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 57,
+      "img": "https://i.ibb.co/C1YZvKj/chairs-58.png",
+      "title": "Princess",
+      "price": 4500,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 58,
+      "img": "https://i.ibb.co/8PzvtTM/chairs-59.png",
+      "title": "Nature",
+      "price": 5500,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 59,
+      "img": "https://i.ibb.co/1XCF6PZ/chairs-60.png",
+      "title": "Nature2",
+      "price": 5000,
+      "category": "chairs",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 60,
+      "img": "https://i.ibb.co/VVnfwR2/sofas-61.png",
+      "title": "Amal",
+      "price": 5500,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 61,
+      "img": "https://i.ibb.co/FhZkFvM/sofas-62.png",
+      "title": "Jacques",
+      "price": 7000,
+      "category": "sofas",
+      "rating": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 62,
+      "img": "https://i.ibb.co/7rhJQdD/sofas-63.png",
+      "title": "Modernariato",
+      "price": 8400,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 63,
+      "img": "https://i.ibb.co/16Xt27G/sofas-64.png",
+      "title": "Antigua",
+      "price": 3500,
+      "category": "sofas",
+      "rating": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 64,
+      "img": "https://i.ibb.co/tQm8KmH/sofas-65.png",
+      "title": "Dogaressa",
+      "price": 6000,
+      "category": "sofas",
+      "rating": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 65,
+      "img": "https://i.ibb.co/LQD6Ctd/sofas-66.png",
+      "title": "Slash",
+      "price": 7000,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 66,
+      "img": "https://i.ibb.co/QNg1x8W/sofas-67.png",
+      "title": "Euclide",
+      "price": 8900,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 67,
+      "img": "https://i.ibb.co/RQ2jpC0/sofas-68.png",
+      "title": "Rialto",
+      "price": 6400,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 68,
+      "img": "https://i.ibb.co/x2W5mw2/sofas-69.png",
+      "title": "Cloe",
+      "price": 7800,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 69,
+      "img": "https://i.ibb.co/8YYGZ59/sofas-70.png",
+      "title": "Savon",
+      "price": 8000,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 70,
+      "img": "https://i.ibb.co/H2NyGwD/sofas-71.png",
+      "title": "Trust",
+      "price": 5300,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 71,
+      "img": "https://i.ibb.co/ChG23tR/sofas-72.png",
+      "title": "Madison",
+      "price": 7500,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 72,
+      "img": "https://i.ibb.co/L6CyFLh/sofas-73.png",
+      "title": "Gansevoort",
+      "price": 6200,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 73,
+      "img": "https://i.ibb.co/KWV4dCQ/sofas-74.png",
+      "title": "Тrilogy XL",
+      "price": 6300,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 74,
+      "img": "https://i.ibb.co/7YQ0j1h/sofas-75.png",
+      "title": "Amal",
+      "price": 5200,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 75,
+      "img": "https://i.ibb.co/XxSTDWy/sofas-76.png",
+      "title": "Cannes",
+      "price": 5000,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 76,
+      "img": "https://i.ibb.co/N28FRM4/sofas-77.png",
+      "title": "Eden",
+      "price": 8000,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 77,
+      "img": "https://i.ibb.co/N28FRM4/sofas-77.png",
+      "title": "Princess",
+      "price": 4500,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 78,
+      "img": "https://i.ibb.co/S0Pn3nv/sofas-79.png",
+      "title": "Nature",
+      "price": 5500,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    },
+    {
+      "id": 79,
+      "img": "https://i.ibb.co/hyzdtTb/sofas-80.png",
+      "title": "Nature2",
+      "price": 5000,
+      "category": "sofas",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur. Leo tellus viverra enim pharetra cras. Pretium netus varius eu at. Ultricies velit dolor sagittis odio pharetra quis. Scelerisque."
+    }
+  ]
+}

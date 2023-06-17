@@ -38,7 +38,7 @@ const Furniture = () => {
     console.log(search);
     console.log(categorys);
     fetch(
-      `https://64365ecf8205915d34f1b803.mockapi.io/items?page=${currentPage}&limit=6&${categorys}&${search}`
+      `http://localhost:3001/objects?page=${currentPage}&limit=6&${categorys}&${search}`
     )
       .then((res) => {
         return res.json();
