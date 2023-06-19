@@ -4,10 +4,10 @@ import { CategoryContext } from "../App";
 
 function Categories() {
   const categories = [
-    { category: "Beds", img: "https://i.ibb.co/g9HxT4z/black-wite-1.png" },
-    { category: "Chairs", img: "https://i.ibb.co/9W4p2yB/black-wite-2.png" },
-    { category: "Cabinets", img: "https://i.ibb.co/5Yq5JzQ/black-wite-3.png" },
-    { category: "Sofas", img: "https://i.ibb.co/7tKTKKc/black-wite-4.png" },
+    { category: "beds", img: "https://i.ibb.co/g9HxT4z/black-wite-1.png" },
+    { category: "chairs", img: "https://i.ibb.co/9W4p2yB/black-wite-2.png" },
+    { category: "cabinets", img: "https://i.ibb.co/5Yq5JzQ/black-wite-3.png" },
+    { category: "sofas", img: "https://i.ibb.co/7tKTKKc/black-wite-4.png" },
   ];
   const { categoryValue, setCategoryValue } = React.useContext(CategoryContext);
 
@@ -15,13 +15,13 @@ function Categories() {
     <div className="categories">
       <ul>
         {categories.map((object, i) => (
-          <Link to="/furniture">
+          <Link to="/furniture" key={i}>
             <li
               key={i}
               onClick={() => setCategoryValue(object.category)}
               className={categoryValue === object.category ? "active" : ""}
             >
-              <img src={object.img} alt="catigories" />
+              <img src={object.img} alt="catigories" key={i} />
 
               <h2>{object.category}</h2>
             </li>

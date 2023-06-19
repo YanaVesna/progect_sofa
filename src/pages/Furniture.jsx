@@ -34,11 +34,11 @@ const Furniture = () => {
     setIsLoading(true);
 
     const categorys = categoryValue ? `category=${categoryValue}` : "";
+
     const search = searchValue ? `search=${searchValue}` : "";
-    console.log(search);
-    console.log(categorys);
+
     fetch(
-      `http://localhost:3001/objects?page=${currentPage}&limit=6&${categorys}&${search}`
+      `https://64365ecf8205915d34f1b803.mockapi.io/items?page=${currentPage}&limit=6&${categorys}&${search}&project=2`
     )
       .then((res) => {
         return res.json();
@@ -50,9 +50,15 @@ const Furniture = () => {
     window.scrollTo(0, 0);
   }, [currentPage, searchValue, categoryValue]);
 
+  console.log(items.length);
   const cartsFurniture = items
     .filter((obj) => {
-      if (obj.category.toLowerCase().includes(categoryValue.toLowerCase())) {
+      if (
+        obj.category
+          .toString()
+          .toLowerCase()
+          .includes(categoryValue.toLowerCase())
+      ) {
         return true;
       }
       return false;
