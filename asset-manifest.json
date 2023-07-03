@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/progect_sofa/static/css/main.37bf6525.css",
-    "main.js": "/progect_sofa/static/js/main.6ea1dcb1.js",
+    "main.css": "/progect_sofa/static/css/main.95e785e8.css",
+    "main.js": "/progect_sofa/static/js/main.33ce78d3.js",
     "static/media/mainPage.png": "/progect_sofa/static/media/mainPage.07555821b75cd5ce8c85.png",
     "index.html": "/progect_sofa/index.html",
-    "main.37bf6525.css.map": "/progect_sofa/static/css/main.37bf6525.css.map",
-    "main.6ea1dcb1.js.map": "/progect_sofa/static/js/main.6ea1dcb1.js.map"
+    "main.95e785e8.css.map": "/progect_sofa/static/css/main.95e785e8.css.map",
+    "main.33ce78d3.js.map": "/progect_sofa/static/js/main.33ce78d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.37bf6525.css",
-    "static/js/main.6ea1dcb1.js"
+    "static/css/main.95e785e8.css",
+    "static/js/main.33ce78d3.js"
   ]
 }
