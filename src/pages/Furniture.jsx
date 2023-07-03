@@ -3,12 +3,16 @@ import React from "react";
 import CartFurniture from "../components/CartFurniture";
 import Search from "../components/Search";
 import Pagination from "../components/Pagination";
-import Skeleton from "../components/PizzaBlock/Skeleton";
-import { CategoryContext, SearchContext } from "../App";
+import Skeleton from "../components/Skeleton/Skeleton";
+/* import { CategoryContext, SearchContext } from "../App"; */
+
+import { useSelector, useDispatch } from "react-redux";
+import { setCategoryValue } from "../Redux/Slices/filterSlice.js";
 
 const Furniture = () => {
-  const { searchValue } = React.useContext(SearchContext);
-  const { categoryValue, setCategoryValue } = React.useContext(CategoryContext);
+  const dispatch = useDispatch();
+  const categoryValue = useSelector((state) => state.filter.categoryValue);
+  const searchValue = useSelector((state) => state.filter.searchValue);
 
   const ellipses = [
     { categoryValue: "", img: "https://i.ibb.co/6NRXypZ/ellipse.png" },
@@ -50,7 +54,6 @@ const Furniture = () => {
     window.scrollTo(0, 0);
   }, [currentPage, searchValue, categoryValue]);
 
-  console.log(items.length);
   const cartsFurniture = items
     .filter((obj) => {
       if (
@@ -111,7 +114,7 @@ const Furniture = () => {
               <div
                 key={ell.categoryValue}
                 value={categoryValue}
-                onClick={() => setCategoryValue(ell.categoryValue)}
+                onClick={() => dispatch(setCategoryValue(ell.categoryValue))}
                 className="furniture__tab__ellipses__box"
               >
                 <div className="furniture__tab__ellipses__box__round">

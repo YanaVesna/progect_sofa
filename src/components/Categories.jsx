@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { CategoryContext } from "../App";
+/* import { CategoryContext } from "../App"; */
+import { useDispatch, useSelector } from "react-redux";
+import { setCategoryValue } from "../Redux/Slices/filterSlice";
 
 function Categories() {
   const categories = [
@@ -9,7 +11,10 @@ function Categories() {
     { category: "cabinets", img: "https://i.ibb.co/5Yq5JzQ/black-wite-3.png" },
     { category: "sofas", img: "https://i.ibb.co/7tKTKKc/black-wite-4.png" },
   ];
-  const { categoryValue, setCategoryValue } = React.useContext(CategoryContext);
+  /* const { categoryValue, setCategoryValue } = React.useContext(CategoryContext); */
+
+  const dispatch = useDispatch();
+  const categoryValue = useSelector((state) => state.filter.categoryValue);
 
   return (
     <div className="categories">
@@ -18,7 +23,7 @@ function Categories() {
           <Link to="/furniture" key={i}>
             <li
               key={i}
-              onClick={() => setCategoryValue(object.category)}
+              onClick={() => dispatch(setCategoryValue(object.category))}
               className={categoryValue === object.category ? "active" : ""}
             >
               <img src={object.img} alt="catigories" key={i} />
